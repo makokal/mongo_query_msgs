@@ -1,0 +1,18 @@
+<package>
+  <description brief="mongo_query_msgs">
+
+     mongo_query_msgs
+
+  </description>
+  <author>ias</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mongo_query_msgs</url>
+  <depend package="actionlib"/>
+  <depend package="actionlib_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="turtlesim"/>
+
+</package>
+
+

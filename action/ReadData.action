@@ -1,0 +1,11 @@
+# Read data from mongodb database
+
+string topic
+time start
+time stop
+---
+# Result of the read data action
+string status
+---
+# Feedback
+string data

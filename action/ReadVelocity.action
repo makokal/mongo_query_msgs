@@ -1,0 +1,11 @@
+# Read velocity action (test)
+
+string topic
+time start
+time stop
+---
+# Result of the read data action
+string status
+---
+# Feedback
+turtlesim/Velocity data
