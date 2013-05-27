@@ -12,6 +12,8 @@
   <depend package="actionlib_msgs"/>
   <depend package="std_msgs"/>
   <depend package="turtlesim"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
 
 </package>
 
